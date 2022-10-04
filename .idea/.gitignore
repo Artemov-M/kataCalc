@@ -1,0 +1,6 @@
+# Default ignored files
+*
+
+!.gitignore
+!misc.xml
+!modules.xml
